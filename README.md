@@ -24,3 +24,6 @@ Using NodeJS, do the following:
 21. Write a function to multiply two numbers entered by user
 22. Write a function to return a value
 23. Write a function to print a value
+
+
+Exercise #2 : Already Completed. Online MongoDB configration
